@@ -91,7 +91,7 @@ public class Matrizes {
 			searchVerify = 0;
 			System.out.println();
 		}
-		
-		sc.close();	
+
+		sc.close();
 	}
 }
